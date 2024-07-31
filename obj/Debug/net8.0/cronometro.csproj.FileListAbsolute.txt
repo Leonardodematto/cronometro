@@ -1,0 +1,15 @@
+c:\Users\Leona\cronometro\bin\Debug\net8.0\cronometro.exe
+c:\Users\Leona\cronometro\bin\Debug\net8.0\cronometro.deps.json
+c:\Users\Leona\cronometro\bin\Debug\net8.0\cronometro.runtimeconfig.json
+c:\Users\Leona\cronometro\bin\Debug\net8.0\cronometro.dll
+c:\Users\Leona\cronometro\bin\Debug\net8.0\cronometro.pdb
+c:\Users\Leona\cronometro\obj\Debug\net8.0\cronometro.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Leona\cronometro\obj\Debug\net8.0\cronometro.AssemblyInfoInputs.cache
+c:\Users\Leona\cronometro\obj\Debug\net8.0\cronometro.AssemblyInfo.cs
+c:\Users\Leona\cronometro\obj\Debug\net8.0\cronometro.csproj.CoreCompileInputs.cache
+c:\Users\Leona\cronometro\obj\Debug\net8.0\cronometro.sourcelink.json
+c:\Users\Leona\cronometro\obj\Debug\net8.0\cronometro.dll
+c:\Users\Leona\cronometro\obj\Debug\net8.0\refint\cronometro.dll
+c:\Users\Leona\cronometro\obj\Debug\net8.0\cronometro.pdb
+c:\Users\Leona\cronometro\obj\Debug\net8.0\cronometro.genruntimeconfig.cache
+c:\Users\Leona\cronometro\obj\Debug\net8.0\ref\cronometro.dll
